@@ -1,5 +1,5 @@
 # Expense Tracker -- Budget App 📱
-Welcome to the Expense Tracker project! This simple Python script allows users to track their expenses, categorize them, and monitor their budget. It provides a straightforward interface for entering expenses, saving them to a CSV file, and summarizing spending habits.
+Expense Tracker app this simple Python project allows users to track their expenses, categorize them, and monitor their budget on a monthly basis. It provides a straightforward interface for entering expenses, saving them to a CSV file, and summarizing spending habits. Additionally, the app performs mathematical calculations to display the remaining budget for the remainder of the month.
 
 
 
