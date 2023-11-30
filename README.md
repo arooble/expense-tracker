@@ -20,3 +20,7 @@ Welcome to the Expense Tracker project! This simple Python script allows users t
 
 - **Default Budget:**
   The default budget is set to $4000.
+
+
+## Architecture Diagram <a name="architecture"></a> :pencil2:
+
